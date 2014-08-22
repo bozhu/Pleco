@@ -1,0 +1,14 @@
+*.swp
+*~
+.DS_Store
+
+*.pyc
+*.o
+*.out
+*.run
+
+*.bak
+*.tmp
+
+py/test_vectors.txt
+*.dSYM
