@@ -9,3 +9,8 @@ Plectron is a small piece of metal or plastic that is used to
 plunk musical instruments.
 
 > [![](http://i.imgur.com/gxwupAW.jpg)](http://en.wikipedia.org/wiki/Plecostomus#mediaviewer/File:Pleco1.jpg)
+
+
+### License
+
+The source code is released under [the MIT license](http://en.wikipedia.org/wiki/MIT_License), if not otherwise specified.
