@@ -8,4 +8,4 @@ Pleco or Plecostomus is a kind of fishes that is very popular among aquarists, a
 Plectron is a small piece of metal or plastic that is used to
 plunk musical instruments.
 
-> ![](http://i.imgur.com/PKuSFJY.jpg)
+> [![](http://i.imgur.com/3HmUkvh.jpg)](http://en.wikipedia.org/wiki/Plecostomus#mediaviewer/File:Pleco1.jpg)
